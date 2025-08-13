@@ -18,7 +18,11 @@ public:
                 }
             }
         }    
-        return dp[amount];
+        if(dp[amount] != INT_MAX)
+            return dp[amount];
+        else{
+            return -1;
+        }
     }
 };
 // @lc code=end
