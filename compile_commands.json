@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "D:/Workspace/LeetCode-Code",
+    "command": "g++ -std=c++17 -ID:/Workspace/LeetCode-Code -IC:/mingw64/include -IC:/mingw64/include/c++/15.2.0 -IC:/mingw64/include/c++/15.2.0/x86_64-w64-mingw32 -IC:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include -IC:/mingw64/x86_64-w64-mingw32/include -include leetcode_headers.h -c *.cpp",
+    "file": "*.cpp"
+  }
+]
